@@ -214,4 +214,9 @@
   .hero {
     padding: 0 3.2rem;
   }
+
+  .card::before {
+    top: 4%;
+    left: -10%;
+  }
 }

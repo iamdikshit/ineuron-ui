@@ -223,7 +223,7 @@ header nav ul li ul li:hover .superlist {
 .card::before {
   position: absolute;
   content: "Live";
-  width: 10rem;
+  width: 15rem;
   font-size: 1.6rem;
   text-align: center;
   padding: 0.4rem 0;
@@ -231,7 +231,7 @@ header nav ul li ul li:hover .superlist {
   background-color: #fa0909;
   text-transform: uppercase;
   top: 3%;
-  left: -8%;
+  left: -16%;
   transform: rotate(-45deg);
   z-index: 999;
 }
