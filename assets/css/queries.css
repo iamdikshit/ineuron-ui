@@ -199,11 +199,9 @@
     grid-template-columns: repeat(1, 1fr);
   }
   .grid-rows-3-cols--2 {
-    grid-template-rows: repeat(6, 1fr);
     grid-template-columns: repeat(1, 1fr);
   }
   .grid-rows-cols--2 {
-    grid-template-rows: repeat(3, 1fr);
     grid-template-columns: repeat(1, 1fr);
   }
   .company-detals:nth-child(3) {
@@ -215,7 +213,5 @@
   }
   .hero {
     padding: 0 3.2rem;
-  }
-  .testimonial-right-section {
   }
 }
