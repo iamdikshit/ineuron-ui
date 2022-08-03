@@ -191,9 +191,9 @@
 
 /* 544px / 16px */
 @media (max-width: 34em) {
-  .grid {
+  /* .grid {
     row-gap: 4rem;
-  }
+  } */
   .grid-cols--3,
   .grid-cols--2 {
     grid-template-columns: repeat(1, 1fr);
@@ -205,8 +205,8 @@
     grid-template-columns: repeat(1, 1fr);
   }
   .company-detals:nth-child(3) {
-    grid-row: 3/4;
-    grid-column: 1/3;
+    /* grid-row: ; */
+    grid-column: 1/2;
   }
   .hero-section {
     padding: 2.4rem 0 6.4rem 0;
